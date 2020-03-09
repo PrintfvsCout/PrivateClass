@@ -1,0 +1,6 @@
+app:
+  datasource:
+    jdbc-url: jdbc:postgresql://localhost:5434/db_201920z_gv_ind_177?currentSchema=privatni_casovi
+    username: u173180
+    password: -------
+    pool-size: 30
